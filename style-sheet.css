@@ -1,0 +1,48 @@
+
+#tree {border:0;
+border-radius: 0;
+background:pink;
+height:80px;}
+.nav-list { border:0;
+	border:1px solid black;
+	width:100%;
+	background-color:rgb(41,678,674);
+	margin-top:-19px;
+	color:black;
+}
+}
+#collapsable-nav {border:0;
+width:100%;}
+
+.nav-list li {font-size: 1.5em;
+	
+	text-align: center;
+
+}
+
+@media (min-width: 1200px) { .doll {height: 1260px}
+.toy {height: 1360px;}
+.ball {height: 1360px;}}
+
+
+
+
+hr {width:50%;
+color:black;}
+section div {margin-bottom:10px;}
+ .toy {
+ 	height:auto;
+ 	padding:10px;
+ 	background-color:gray;
+ 	padding:10px;
+ 	line-height: 1.72em;
+
+}
+ .ball {
+padding:10px;
+background-color:gray;
+line-height: 1.5em;}
+.doll {padding:10px;
+background-color:gray;
+height:auto;
+line-height: 1.799em;}
